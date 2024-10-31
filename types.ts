@@ -1,5 +1,6 @@
 type Metadata = {
     createdAt: string
+    uuid: string
 }
 
 type TextScribble = {
